@@ -27,7 +27,7 @@ public static void main(String[] args) {
 		// TODO Auto-generated catch block
 		e.printStackTrace();
 	}
-	System.out.println("using Elements are.......");
+	System.out.println("Elements are.......");
 	ListIterator<String> li=list.listIterator();
 	while(li.hasNext())
 	{
